@@ -1,3 +1,3 @@
 let nombres = {
-	name: "Emilio";
+	name: "Emilio A";
 }
